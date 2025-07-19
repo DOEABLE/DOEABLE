@@ -12,14 +12,16 @@
 ---
 
 ## 🔗 주요 프로젝트
-- 🎥 [영상 분류기 프로젝트](https://github.com/username/video-classifier)
-- 📊 [Pandas 데이터 시각화 예제](https://github.com/username/pandas-viz)
+- 🎥 [Digital hana 路 금융서비스 개발]
+-   키워드 하나로 금융서비스를 쉽고 간단하게 이용하세요. `키워드 하나로`(2024.10.17 - 2024.12.30)([https://github.com/username/video-classifier](https://github.com/KeywordHanaro/KeywordHanaro_BE))
+-   버킷리스트와 노후자산관리의 만남, 꿈을 실현하는 똑똑한 자산 플래닝 `꿈틀`(2025.1.6 -2025.2.6)([https://github.com/username/video-classifier]([https://github.com/KeywordHanaro/KeywordHanaro_BE])(https://github.com/digital-hanaro-RSP/GGUMTLE_FE)))
+# - 📊 [Pandas 데이터 시각화 예제](https://github.com/username/pandas-viz)
 
 ---
 
-## 📫 연락처
-- 📧 Email: hong.dev@example.com  
-- 🌐 Blog: [gptonline.ai/ko](https://gptonline.ai/ko/)
+## 📫 Context
+- 📧 Email: kimdh090588@gmail.com
+- 🧑🏾‍💻 notion: 
 
 
 <!--
