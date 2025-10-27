@@ -1,4 +1,3 @@
-<!-- 
 #🎯 백엔드 기술을 중심으로 데이터 엔지니어링과 머신러닝을 다루는 백엔드 개발자 김도희입니다.  
 #현재는 Python 기반 ML + 회귀 + 비전 프로젝트와 OpenCV 영상처리의 프로젝트 멘토링에 집중하고 있어요.
 
@@ -16,19 +15,12 @@
   
 ---
 - ## 🧑🏾‍💻Carrer details
-- ### 🧩 슈어소프트테크 솔루션통합지원실 기술지원팀 (2025.08 – Present)
-- 정적/동적 분석 및 검증 솔루션(STATIC, CT, COVER 등) **환경 구축·통합·운영 지원**
-- 고객사 대상 **기술지원** 수행 (환경 구성, 버전 업그레이드, 라이선스 발급, 결과 분석 대응 등)
-- 고객 환경 재현 및 문제 진단을 통한 **이슈 분석·해결 가이드 제공**
-- **고객 요구사항 반영 및 제품 개선 피드백 제공**
-  
-- 설치 이후의 사용 · 문의 · 장애 대응까지 책임지며, 고객이 솔루션을 원활히 사용할 수 있도록 기술적
 - ### ⚡포스코그룹 AI 활용전문가 과정 프로젝트 코치(2025.07.14 - 2025.08.08)
 - 기술계 직원 대상 AI 및 머신러닝 관련 코드 리뷰 및 오프라인 멘토링(Python, ML/DL(Regression, Computer Vision, Reinforcement Learning), LLM활용 관련)
 - 프로젝트 중간 점검 및 주제 확정 서포트 및 멘토링
 
 - ### ⚡(주)리치앤타임(2022.10-2024.03)
-- JAVA, JSP를 활용한 PLM솔루션 개발(대시보드, FEMEA 관련), 유지보수
+- JAVA, JSP를 활용한 PLM솔루션 개발(대시보드, FMEA 관련), 유지보수
 - 고객사 현업 대상 사용자교육
 
 
@@ -74,7 +66,7 @@
 **DOEABLE/DOEABLE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
