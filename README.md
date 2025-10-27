@@ -1,3 +1,4 @@
+<!-- 
 #🎯 백엔드 기술을 중심으로 데이터 엔지니어링과 머신러닝을 다루는 백엔드 개발자 김도희입니다.  
 #현재는 Python 기반 ML + 회귀 + 비전 프로젝트와 OpenCV 영상처리의 프로젝트 멘토링에 집중하고 있어요.
 
@@ -70,7 +71,6 @@
 - 🧑🏾‍💻 notion: 
 
 
-<!--
 **DOEABLE/DOEABLE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
