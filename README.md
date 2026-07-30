@@ -10,14 +10,14 @@
 - JAVA, ORACLE, 를 활용한 웹/앱 개발 경험
 - JACOCO, JUnit을 사용한 컴포넌트 테스트코드 구현 가능
 - ERD 설계 및 CRUD 구현 능력
-- 디지털 하나로 금융서비스 2회의 팀프로젝트(키워드하나로, 꿈틀)
-- 디지털 하나로 우수 수료
+- 하나은행 디지털 하나로 금융서비스 2회의 팀프로젝트(키워드하나로, 꿈틀)
+- 하나은행 디지털 하나로 우수 수료
 - 청년취업사관학교 풀스택프로젝트 실무과정(컴퓨터과학, 인프라, 웹개발, Linux, DevOps, AWS, Docker, MySQL)
   
 ---
 - ## 🧑🏾‍💻Carrer details
 - ### ⚡포스코그룹 AI 활용전문가 과정 프로젝트 코치(2025.07.14 - 2025.08.08)
-- 기술계 직원 대상 AI 및 머신러닝 관련 코드 리뷰 및 오프라인 멘토링(Python, ML/DL(Regression, Computer Vision, Reinforcement Learning), LLM활용 관련)
+- 기술계 직원 대상 AI 및 머신러닝 업무자동화 프로젝트 멘토: 코드 리뷰 및 오프라인 멘토링(Python, ML/DL(Regression, Computer Vision, Reinforcement Learning), LLM활용 관련)
 - 프로젝트 중간 점검 및 주제 확정 서포트 및 멘토링
 
 - ### ⚡(주)리치앤타임(2022.10-2024.03)
